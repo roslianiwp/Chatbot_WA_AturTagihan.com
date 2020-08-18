@@ -1,0 +1,25 @@
+{
+  "rescode": "0000",
+  "message": {
+    "title": "Success",
+    "body": "Success"
+  },
+  "data": {
+    "id": 7002,
+    "created_at": "2020-06-05T17:23:20+07:00",
+    "created_by": 0,
+    "updated_at": "2020-06-05T17:24:04+07:00",
+    "name": "Bondan Bondan",
+    "username": "bondan",
+    "password": "$2a$08$K2B7tWTl8MoWhPImY1JnBObxE1gT/rxM/tYuV.NcWiZ//FVsbdMce",
+    "email": "bondan@gmail.com",
+    "phone": "089389273871",
+    "role_id": 3,
+    "is_active": 1,
+    "is_admin": false,
+    "company_id": 33,
+    "company_name": "",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE1OTM3NDg1NjksImlkIjo3MDAyLCJpc19hZG1pbiI6ZmFsc2UsInJvbGVfaWQiOjN9.PVa3UXm9VqUZeLY_GbVI8cP_tSW-xAPjxFoTRis8NlM",
+    "expired_token": "2020-07-03T03:56:09.130245382Z"
+  }
+}

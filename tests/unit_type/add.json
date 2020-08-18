@@ -1,0 +1,20 @@
+{
+    "rescode": "4006",
+    "message": {
+        "title": "Success",
+        "body": "Success"
+    },
+    "data": {
+        "id": 775,
+        "created_at": "2020-06-10T11:23:10+07:00",
+        "created_by": 7002,
+        "updated_at": "2020-07-03T19:37:38+07:00",
+        "updated_by": 7002,
+        "deleted_at": null,
+        "deleted_by": null,
+        "name": "ini nama",
+        "description": "deskripsi",
+        "product_id": 1125,
+        "product_name": "Cluster Pondok Jaya"
+    }
+}

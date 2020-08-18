@@ -1,0 +1,7 @@
+{
+    "rescode": "4006",
+    "message": {
+        "title": "Bad Request",
+        "body": "Data is not valid [price_id]"
+    }
+}

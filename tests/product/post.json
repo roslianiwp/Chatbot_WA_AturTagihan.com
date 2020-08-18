@@ -1,0 +1,30 @@
+{
+  "rescode": "0000",
+  "message": {
+    "title": "Success",
+    "body": "Success"
+  },
+  "data": {
+    "id": 1148,
+    "created_at": "2020-06-26T11:07:08+07:00",
+    "created_by": 7033,
+    "name": "Testing Perumahan Plis",
+    "description": "Jalan Testing Perumahan 1 no 1",
+    "product_type_id": 2,
+    "product_type_name": "perumahan",
+    "user_id": 7033,
+    "logo": "",
+    "signature": "",
+    "start_date": 1,
+    "end_date": 15,
+    "invoice_description": "Testing saja",
+    "bank_code": "002",
+    "bank_name": "BANK BRI",
+    "account_number": "900928374",
+    "account_name": "Rizki Pangestu DUA",
+    "payment_activation": 0,
+    "email_template": "",
+    "sms_template": "",
+    "wa_template": ""
+  }
+}

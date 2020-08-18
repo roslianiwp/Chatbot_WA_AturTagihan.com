@@ -1,0 +1,18 @@
+{
+  "rescode": "4006",
+  "message": {
+    "title": "Success",
+    "body": "Success"
+  },
+  "data": {
+    "id": 344,
+    "created_at": "2020-06-25T20:40:57+07:00",
+    "created_by": 7033,
+    "base_price": 50000,
+    "product_id": 1147,
+    "product_name": "testing ganti",
+    "unit_type_id": 792,
+    "unit_type_name": "Type in Karanganyar",
+    "billing_category": "listrik"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "rescode": "0000",
+  "message": {
+    "title": "Success",
+    "body": "Success"
+  },
+  "data": {
+    "count": 0,
+    "pages": 1,
+    "records": [],
+    "offset": 0,
+    "limit": 30,
+    "page": 1,
+    "prevPage": 1,
+    "nextPage": 1
+  }
+}

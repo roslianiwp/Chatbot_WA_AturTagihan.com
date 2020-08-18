@@ -1,0 +1,16 @@
+{
+  "rescode": "0000",
+  "message": {
+    "title": "Success",
+    "body": "Success"
+  },
+  "data": {
+    "id": 943,
+    "created_at": "2020-06-25T14:58:56+07:00",
+    "created_by": 7033,
+    "name": "Tagihan Listrik",
+    "billing_category": "listrik",
+    "product_id": 1147,
+    "product_name": "testing ganti"
+  }
+}

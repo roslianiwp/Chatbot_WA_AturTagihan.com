@@ -1,0 +1,26 @@
+{
+  "rescode": "0021",
+  "message": {
+    "title": "Failed",
+    "body": "Successfuly registered new user"
+  },
+  "data": {
+    "id": 49,
+    "created_at": "2020-07-15T17:22:56+07:00",
+    "created_by": 0,
+    "updated_at": null,
+    "updated_by": null,
+    "deleted_at": null,
+    "deleted_by": null,
+    "name": "rizki",
+    "username": "rizkipngs",
+    "password": "$2a$08$x96Ma/uIitzMFNvGBYivH.VjneZrmiIm0aujR0sT9JaajebxF2uUa",
+    "email": "rizkipans@gmail.com",
+    "phone": "081320003997",
+    "role_id": 3,
+    "is_active": 1,
+    "is_admin": false,
+    "company_id": null,
+    "company_name": "PT. Rizki Berjaya"
+  }
+}

@@ -1,0 +1,27 @@
+{
+    "rescode": "4006",
+    "message": {
+        "title": "Success",
+        "body": "Success"
+    },
+    "data": {
+        "id": 3204,
+        "created_at": "2020-06-20T20:25:34+07:00",
+        "created_by": 7002,
+        "updated_at": null,
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "name": "unit 3 kamar",
+        "size": 45,
+        "address": "jalan tidar",
+        "product_id": 1125,
+        "product_name": "Cluster Pondok Jaya",
+        "unit_type_id": 775,
+        "unit_type_name": "ini nama",
+        "customer_id": 3215,
+        "customer_name": "Bamas Angkasa",
+        "mapping_period_id": 117,
+        "mapping_period_name": "bulanan"
+    }
+}

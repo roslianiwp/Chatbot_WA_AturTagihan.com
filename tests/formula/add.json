@@ -1,0 +1,27 @@
+{
+    "rescode": "4006",
+    "message": {
+        "title": "Success",
+        "body": "Success"
+    },
+    "data": {
+        "id": 350,
+        "created_at": "2020-07-11T15:39:47+07:00",
+        "created_by": 7002,
+        "updated_at": null,
+        "updated_by": null,
+        "deleted_at": null,
+        "deleted_by": null,
+        "billing_category": "listrik",
+        "billing_type_id": 964,
+        "billing_type_name": "Untuk Scoring",
+        "product_id": 1165,
+        "product_name": "Untuk Scoring",
+        "unit_type_id": 815,
+        "unit_type_name": "Untuk Scoring",
+        "charge_type": "formula",
+        "formulation": " price.base_price * 2",
+        "price_id": 368,
+        "base_price": 5000
+    }
+}

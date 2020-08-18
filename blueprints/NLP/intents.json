@@ -1,0 +1,381 @@
+{
+  "intents": [
+    {
+      "tag": "aturtagihan",
+      "patterns": [
+        "halo bot",
+        "hai bot",
+        "selamat pagi",
+        "selamat siang",
+        "halo bro",
+        "halo sayang",
+        "guten morgen",
+        "halo kak",
+        "halo beb",
+        "ada orang?",
+        "aturtagihan",
+        "bot",
+        "hai",
+        "hi",
+        "hello",
+        "halo",
+        "selamat malam",
+        "kamu siapa?",
+        "ini siapa?",
+        "siapa?",
+        "join open flip",
+        "join slash salsa",
+        "join drill yahoo",
+        "hedwig"
+      ],
+      "responses": [
+        "Halo! Perkenalkan namaku Hedwig. Aku adalah Chatbot AturTagihan.com. Disini aku siap membantu Anda!",
+        "Selamat datang! Namaku Hedwig sebagai Chatbot AturTagihan.com. Apa yang bisa Hedwig bantu?",
+        "Halo! Perkenalkan aku Hedwig, Chatbot AturTagihan.com! Apa yang bisa aku bantu?"
+      ],
+      "context_set": "aturtagihan"
+    },
+    {
+      "tag": "masuk",
+      "patterns": [
+        "login",
+        "log in",
+        "masuk",
+        "signin",
+        "sign in",
+        "menu login",
+        "ingin login",
+        "ingin log in",
+        "ingin masuk",
+        "menu masuk",
+        "aku ingin masuk nih bot",
+        "masuk dong bot",
+        "aku login",
+        "saya mau login",
+        "aku login",
+        "login dong kak",
+        "masuk login",
+        "login dong",
+        "masuk",
+        "saya ingin lgin",
+        "saya mau masuk"
+      ],
+      "responses": [
+        "Sebelum Anda mengakses fiturku, Anda harus masuk dulu ya caranya mudah kok! Tinggal masukkan email dan password Anda"
+      ],
+      "context_set": "masuk"
+    },
+    {
+      "tag": "daftar",
+      "patterns": [
+        "register",
+        "daftar",
+        "akun",
+        "daftar akun",
+        "baru",
+        "akun baru",
+        "bikin akun",
+        "bikin baru",
+        "bikin akun baru",
+        "daftar",
+        "hedwig, aku ingini daftar dong",
+        "join dong",
+        "daftar",
+        "sign up",
+        "signup"
+      ],
+      "responses": [
+        "Yuk registrasi dulu agar dapat mengakses fiturku! Caranya mudah kok tinggal ikuti langkah-langkah berikut ini"
+      ],
+      "context_set": "daftar"
+    },
+    {
+      "tag": "produk",
+      "patterns": [
+        "tambah produk",
+        "buat produk baru",
+        "tambah baru produk",
+        "produk",
+        "product",
+        "saya ingin tambah produk",
+        "menambah produk",
+        "liat produk",
+        "boy, mana produknya",
+        "langganan",
+        "saya ingin tambah produk",
+        "saya mau hapus produk",
+        "hapus produk",
+        "prdk",
+        "prd"
+      ],
+      "responses": [
+        "Berikut ini adalah *Produk* Anda",
+        "Berikut ini daftar *Produk* Anda",
+        "Berikut adalah daftar *Produk* yang sudah Anda inputkan"
+      ],
+      "context_set": "produk"
+    },
+    {
+      "tag": "jenis unit",
+      "patterns": [
+        "tambah jenis unit",
+        "jenis unit",
+        "tambah unit",
+        "ingin tambah jenis unit",
+        "buat jenis unit baru",
+        "liat jenis unit boy",
+        "saya ingin tambah jenis unit",
+        "tambah jenis unit",
+        "tipe unit",
+        "jns unit",
+        "mau tambah jns unit",
+        "mau jns unit",
+        "tambah jns unit",
+        "tmbh jns unit"
+      ],
+      "responses": [
+        "Berikut ini adalah *Jenis Unit* Anda"
+      ],
+      "context_set": "jenis unit"
+    },
+    {
+      "tag": "aktivasi rekening",
+      "patterns": [
+        "request aktivasi",
+        "minta aktivasi",
+        "ingin aktivasi",
+        "aktivasi dong",
+        "haii aktivasi",
+        "saya ingin rekues pembayaran",
+        "aktivasi rekening",
+        "mau aktivasi rekening",
+        "mau aktivasi rekening pembayaran",
+        "mau aktivin rekening",
+        "aktivin rekening",
+        "aktifasi rekening",
+        "aktifasi",
+        "aktifasi rekening pembayaran",
+        "ingin aktifasi rekening",
+        "ingin aktifasi rekening pembayaran",
+        "ingin aktivin rekening pembayaran",
+        "ingin aktivin rekening"
+      ],
+      "responses": [
+        "Hedwig infokan yaa.. Dengan melakukan Aktivasi Rekening, Anda dan pelanggan Anda mendapatkan kemudahan dalam transaksi! Langkahnya juga mudah sekali hanya dengan memilih Produk yang ingin diaktivasi rekeningnya"
+      ],
+      "context_set": "aktivasi rekening"
+    },
+    {
+      "tag": "jenis tagihan",
+      "patterns": [
+        "jenis tagihan",
+        "tambah jenis tagihan",
+        "tipe jenis tagihan",
+        "tipe tagihan",
+        "jns tagihan",
+        "jns tghn",
+        "mau tambah jns tagihan",
+        "mau tmbh jns tghn",
+        "ingin tambah jns tagihan",
+        "ingin tmbh jns tghn",
+        "ingin tmbh jenis tghn",
+        "ingin tambah jenis tghn"
+      ],
+      "responses": [
+        "Berikut ini adalah daftar *Jenis Tagihan* Anda"
+      ],
+      "context_set": "jenis tagihan"
+    },
+    {
+      "tag": "formula",
+      "patterns": [
+        "tambah formula",
+        "rumus",
+        "tambah formula",
+        "tambahkan jenis formula",
+        "saya ingin nulis formula",
+        "saya ingin nulis range ",
+        "saya ingin menentukan rumus",
+        "saya ingin menentukan rentang"
+      ],
+      "responses": [
+        "Berikut ini adalah *Formula/Range* yang sudah Anda buat"
+      ],
+      "context_set": "formula"
+    },
+    {
+      "tag": "harga",
+      "patterns": [
+        "harga",
+        "tambah harga",
+        "biaya",
+        "harga biaya",
+        "liat haaarrfa",
+        "liat harga",
+        "harganya berapa boy?",
+        "biaya",
+        "saya mau cek harga",
+        "hrg",
+        "input harga",
+        "masukkan harga",
+        "price",
+        "masukkan iuran",
+        "iuran",
+        "hrga",
+        "hraga"
+      ],
+      "responses": [
+        "Berikut ini adalah *Harga* tiap Produk yang telah Anda masukkan"
+      ],
+      "context_set": "harga"
+    },
+    {
+      "tag": "pelanggan",
+      "patterns": [
+        "pelanggan",
+        "customer",
+        "tambah customer",
+        "tambah pelanggan",
+        "saya mau lihat pelanggan saya",
+        "penghuni",
+        "tambah penghuni",
+        "ingin tambah penghuni",
+        "tmbh penghuni",
+        "mau tambah penghuni",
+        "mau tambah orang yang tinggal",
+        "mau tambah orang",
+        "ingin tambah orang",
+        "cust",
+        "pelagan"
+      ],
+      "responses": [
+        "Berikut ini adalah daftar *Pelanggan* properti Anda"
+      ],
+      "context_set": "pelanggan"
+    },
+    {
+      "tag": "unit",
+      "patterns": [
+        "unit",
+        "tambah unit",
+        "menambah unit",
+        "ingin tambah unit",
+        "hapus unit",
+        "mana unit nya wooy",
+        "pilih unit",
+        "bikin unit",
+        "tambah unit",
+        "lihat unit",
+        "unit",
+        "lihat unit",
+        "masuj unit",
+        "unitku"
+      ],
+      "responses": [
+        "Berikut ini adalah daftar *Unit* yang Anda miliki"
+      ],
+      "context_set": "unit"
+    },
+    {
+      "tag": "buat tagihan",
+      "patterns": [
+        "tagihan",
+        "invoice",
+        "tambah tagihan",
+        "tagihannya mana boy?",
+        "tagihanku",
+        "bayar",
+        "lihat tagihan",
+        "yank bikin tagihan",
+        "tghn"
+      ],
+      "responses": [
+        "Berikut ini adalah menu *Buat Tagihan*"
+      ],
+      "context_set": "buat tagihan"
+    },
+    {
+      "tag": "link",
+      "patterns": [
+        "link",
+        "minta link",
+        "buat link",
+        "tautan link",
+        "tautan",
+        "dapet link dong",
+        "bikin link",
+        "link tagihan",
+        "billing link",
+        "link billing",
+        "url billing"
+      ],
+      "responses": [
+        "Silakan pilih *Nomor Tagihan* berikut ini untuk membuat *Link Tagihan*"
+      ],
+      "context_set": "link"
+    },
+    {
+      "tag": "riwayat tagihan",
+      "patterns": [
+        "history",
+        "penelusuran",
+        "tambah jenis tagihan",
+        "beb liat history",
+        "riwayat",
+        "lihat riwayat",
+        "cek status tagihan",
+        "status tagihan",
+        "cek riwayat",
+        "cek riwayat tagihan",
+        "lihat status tagihan",
+        "status pembayaran",
+        "cek status pembayaran"
+      ],
+      "responses": [
+        "Silakan ketik status yang diinginkan untuk melihat riwayat tagihan"
+      ],
+      "context_set": "riwayat tagihan"
+    },
+    {
+      "tag": "lainnya",
+      "patterns": [
+        "produk:",
+        "no produk:",
+        ":"
+      ],
+      "responses": [
+        "masuk menu lainnya"
+      ],
+      "context_set": "lainnya"
+    },
+    {
+      "tag": "beranda",
+      "patterns": [
+        "beranda",
+        "home",
+        "rumah",
+        "beranda",
+        "halaman utama",
+        "halaman awal"
+      ],
+      "responses": [
+        "Selamat Datang di halaman *Beranda* AturTagihan"
+      ],
+      "context_set": "beranda"
+    },
+    {
+      "tag": "pengaturan",
+      "patterns": [
+        "setting",
+        "pengaturan",
+        "buka pengaturan",
+        "buka setting",
+        "stg"
+      ],
+      "responses": [
+        "Selamat Datang di halaman *Pengaturan* AturTagihan"
+      ],
+      "context_set": "pengaturan"
+    }
+  ]
+}
